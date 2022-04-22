@@ -1,0 +1,19 @@
+a {
+  &:link,
+  &:visited {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.text-cap {
+  text-transform: capitalize;
+}
+
+.text-up {
+  text-transform: uppercase;
+}
+
+.mg-sm {
+  margin-right: 0.5rem;
+}

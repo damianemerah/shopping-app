@@ -1,0 +1,6 @@
+.product-box {
+  @include flexCenter;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+  width: calc(100% + 24px);
+}
